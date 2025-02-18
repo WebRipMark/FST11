@@ -81,3 +81,12 @@ git branch -a
 git switch "branch name" Note: may not work for older versions
 
 git checkout "branch name"
+ Clear terminal commands
+
+clear
+
+ 
+
+- Merge feature branch to master/main branch
+
+git merge "branch name"
